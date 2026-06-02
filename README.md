@@ -1,14 +1,4 @@
 # Sor4kh Developer GFXR Community
-## ⚡ About Me
-
-I'm **Sor4kh** — a developer who **enjoys every single character** I write.  
-Coding isn't just work for me. It's **art. Passion. Energy.** 🔥
-
-- 🧠 Always building, always leveling up
-- 🎯 Fueled by curiosity and clean code
-- 🎮 Active developer in the **GFXR Community**
-
----
 
 ## 🎨 Join the GFXR Community
 
