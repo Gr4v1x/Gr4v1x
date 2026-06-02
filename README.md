@@ -1,4 +1,4 @@
-# Sor4kh Developer Grand Frerome X Rolep Community
+# Sor4kh Developer GFXR Community
 ## ⚡ About Me
 
 I'm **Sor4kh** — a developer who **enjoys every single character** I write.  
